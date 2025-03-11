@@ -1,0 +1,10 @@
+TR1	4	CHR1	7
+TR2	0	CHR2	10
+TR3	17	CHR2	29
+TR1	13	CHR1	23
+TR2	10	CHR2	20
+TR3	30	CHR2	position out of range
+TR2	20	CHR2	position out of range
+TR2	19	CHR2	29
+TR1	18	CHR1	37
+TR3	20	CHR2	position out of range
